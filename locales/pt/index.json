@@ -1,0 +1,107 @@
+{
+  "header": {
+    "name": "Daniel Mesquita",
+    "job": "Desenvolvedor<0/>Full-stack"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "contents": [
+      {
+        "subTitle": "Front-end",
+        "text": "JavaScript, TypeScript, React, React Native, Next, Redux, HTML, CSS, Sass, Styled Components."
+      },
+      {
+        "subTitle": "Back-end",
+        "text": "Node, Docker, Knex, Sequelize, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Linux."
+      },
+      {
+        "subTitle": "Soft Skills",
+        "text": "Adaptabilidade, Persistência."
+      }
+    ]
+  },
+  "languages": {
+    "title": "Línguas",
+    "contents": [
+      {
+        "alt": "Bandeira dos Estados Unidos",
+        "text": "Inglês (Fluente)"
+      },
+      {
+        "alt": "Bandeira do Brasil",
+        "text": "Português (Nativo)"
+      }
+    ]
+  },
+  "about": {
+    "title": "Desenvolvedor full-stack preparado pra uma jornada de aprendizado incessante. Apaixonado por tecnologia, programação e principalmente, crescimento diário.",
+    "alt": "Website QR Code"
+  },
+  "main": [
+    {
+      "title": "Experiência",
+      "contents": [
+        {
+          "title": "Estúdio Flow",
+          "subContents": [
+            {
+              "title": ["Akmos", "Fitness App"],
+              "texts": [
+                "Desenvolvimento do back-end e uso de web sockets para criação de um chat;",
+                "Construção de várias interfaces e auxílio na integração do app mobile com a API."
+              ]
+            },
+            {
+              "title": ["Medfy", "Sistema de gerenciamento de hospital"],
+              "texts": [
+                "Criação de filtros e sistema de pesquisa por médicos;",
+                "Documentação de rotas da api no Swagger;",
+                "Utilização do multer juntamente ao servidor da AWS para upload de arquivos;",
+                "Desenvolvimento de vários recursos de front-end, como uma lista dinâmica e componente de Drag and drop."
+              ]
+            },
+            {
+              "title": ["ICTS", "Sistema de análise de risco de contratação"],
+              "texts": [
+                "Construção de gráficos com a biblioteca Apexcharts;",
+                "Auxílio na integração do front-end com a API;",
+                "Responsável pela responsividade do site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Educação",
+      "contents": [
+        {
+          "title": "Graduação",
+          "subContents": [
+            {
+              "title": ["Faculdade Pitágoras", "Sistemas de Informação"],
+              "texts": ["Em andamento"]
+            }
+          ]
+        },
+        {
+          "title": "Bootcamps",
+          "subContents": [
+            {
+              "title": ["Go stack", "Curso de React, React Native e Node"],
+              "texts": ["Por Diego Fernandes (Rocketseat)"]
+            },
+            {
+              "title": ["ADVANCED CSS AND SASS", "Web design"],
+              "texts": ["Por Jonas Schmedtmann (Udemy)"]
+            },
+            {
+              "title": ["The Complete SQL Bootcamp", "Bancos relacionais"],
+              "texts": ["Por Jose Porttila (Udemy)"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

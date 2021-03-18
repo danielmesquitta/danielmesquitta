@@ -34,7 +34,7 @@ export const Container = styled.main`
 export const Header = styled.header`
   position: relative;
   padding: 30px 0 40px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 
   > h1 {
     display: flex;
@@ -148,14 +148,14 @@ export const Skills = styled.section`
   &::after {
     content: '';
     position: absolute;
-    bottom: 0;
+    bottom: 1px;
     left: 0;
     width: 0;
     height: 0;
     border: 0 solid transparent;
     border-top: 24px solid ${({ theme }) => theme.colors.primary._100};
     border-left-width: 0;
-    border-right-width: 260px;
+    border-right-width: 280px;
     transform: translateY(100%);
   }
 `;
@@ -174,7 +174,7 @@ export const Languages = styled.section`
     > li {
       display: flex;
       align-items: center;
-      padding: 6px 0;
+      padding: 8px 0;
 
       > img {
         width: 16px;
@@ -201,16 +201,16 @@ export const About = styled.section`
   }
 `;
 
-export const Experience = styled.section`
+export const Main = styled.section`
   position: relative;
-  top: -30px;
+  top: -50px;
   margin: 0 16px 0 30px;
   height: 100%;
   padding-left: 30px;
   border-left: 1px solid ${({ theme }) => theme.colors.gray._200};
 
   > h2 {
-    margin-top: 60px;
+    margin-top: 50px;
     position: relative;
     color: ${({ theme }) => theme.colors.gray._200};
     font-size: ${({ theme }) => theme.typography.size.h2};
@@ -232,12 +232,12 @@ export const Experience = styled.section`
 
   > h3 {
     position: relative;
-    margin-top: 10px;
+    margin-top: 0px;
     font-weight: ${({ theme }) => theme.typography.weight.bold};
     text-transform: uppercase;
 
     &:last-of-type {
-      margin-top: 40px;
+      margin-top: 30px;
     }
 
     span {

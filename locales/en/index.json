@@ -1,0 +1,110 @@
+{
+  "header": {
+    "name": "Daniel Mesquita",
+    "job": "Full-stack<0/>software developer"
+  },
+  "skills": {
+    "title": "Skills / Competences",
+    "contents": [
+      {
+        "subTitle": "Front-end",
+        "text": "JavaScript, TypeScript, React, React Native, Next, Redux, HTML, CSS, Sass, Styled Components."
+      },
+      {
+        "subTitle": "Back-end",
+        "text": "Node, Knex, PostgreSQL, Redis, Docker, AWS, Sequelize, MongoDB, Nodemailer, Socket.io."
+      },
+      {
+        "subTitle": "Soft Skills",
+        "text": "Adaptability, Persistence."
+      }
+    ]
+  },
+  "languages": {
+    "title": "Languages",
+    "contents": [
+      {
+        "alt": "US flag",
+        "text": "English (Fluent)"
+      },
+      {
+        "alt": "Brazil flag",
+        "text": "Portuguese (Native)"
+      }
+    ]
+  },
+  "about": {
+    "title": "Prepared for an endless learning journey, passionate about technology, programming and especially, evolution and daily growth.",
+    "alt": "Website QR Code"
+  },
+  "main": [
+    {
+      "title": "Work experience",
+      "contents": [
+        {
+          "title": "Estúdio Flow",
+          "subContents": [
+            {
+              "title": ["Akmos", "Fitness App"],
+              "texts": [
+                "Developed the back-end and used web sockets to create a chat;",
+                "Built multiple interfaces and helped integrate the mobile app with the api."
+              ]
+            },
+            {
+              "title": ["Medfy", "Hospital management system"],
+              "texts": [
+                "Created filter and search system to find doctors;",
+                "Used multer and AWS to upload files;",
+                "Documented all api routes in Swagger;",
+                "Developed multiple front-end features, such as a dynamic list and a drag and drop component."
+              ]
+            },
+            {
+              "title": ["ICTS", "Hiring risk analysis system"],
+              "texts": [
+                "Built multiple charts using the Apexcharts library;",
+                "Helped integrating the front-end with the api;",
+                "Was responsible for the site responsiveness."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "contents": [
+        {
+          "title": "Graduation",
+          "subContents": [
+            {
+              "title": ["Pitágoras College", "Information Systems Degree"],
+              "texts": ["In progress"]
+            }
+          ]
+        },
+        {
+          "title": "Bootcamps",
+          "subContents": [
+            {
+              "title": ["Go stack", "React, React Native & Node course"],
+              "texts": ["By Diego Fernandes (Rocketseat)"]
+            },
+            {
+              "title": ["ADVANCED CSS AND SASS", "Web design"],
+              "texts": ["By Jonas Schmedtmann (Udemy)"]
+            },
+            {
+              "title": [
+                "The Complete SQL Bootcamp",
+                "Relational databases course"
+              ],
+              "texts": ["By Jose Porttila (Udemy)"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

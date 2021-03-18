@@ -16,8 +16,6 @@ const GlobalStyle = createGlobalStyle`
 
   html {
     min-height: 100%;
-    hyphens: auto;
-    word-wrap: break-word;
     overflow-x: hidden;
     position: relative;
     scroll-behavior: smooth;
