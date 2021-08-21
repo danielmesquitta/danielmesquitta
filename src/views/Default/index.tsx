@@ -110,7 +110,7 @@ const Resume: React.FC<Props> = ({ type = 'fullstack' }) => {
       </aside>
       <article>
         <About>
-          <img src="/qrcode.png" alt={t('about.alt')} />
+          <img src="/qrcode.svg" alt={t('about.alt')} />
           <p>{t('about.title')}</p>
         </About>
         <Main>
