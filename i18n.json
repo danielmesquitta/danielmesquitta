@@ -2,6 +2,9 @@
   "locales": ["en", "pt"],
   "defaultLocale": "en",
   "pages": {
-    "/": ["index"]
+    "/": ["fullstack"],
+    "/fullstack": ["fullstack"],
+    "/backend": ["backend"],
+    "/frontend": ["frontend"]
   }
 }

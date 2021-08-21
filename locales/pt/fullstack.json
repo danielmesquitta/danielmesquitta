@@ -12,7 +12,7 @@
       },
       {
         "subTitle": "Back-end",
-        "text": "Node, Docker, Knex, Sequelize, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Linux."
+        "text": "Node, Docker, Knex, Sequelize, Prisma, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Linux."
       },
       {
         "subTitle": "Soft Skills",
@@ -34,7 +34,7 @@
     ]
   },
   "about": {
-    "title": "Desenvolvedor full-stack preparado pra uma jornada de aprendizado incessante. Apaixonado por tecnologia, programação e principalmente, crescimento diário.",
+    "title": "Desenvolvedor full-stack preparado pra uma jornada de aprendizado incessante. Apaixonado por tecnologia, programação e crescimento diário.",
     "alt": "Website QR Code"
   },
   "main": [
@@ -69,6 +69,15 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Freelancer",
+          "subContents": [
+            {
+              "title": ["Pedi Aqui", "Sistema de Delivery"],
+              "texts": ["Desenvolvimento do back-end;"]
+            }
+          ]
         }
       ]
     },
@@ -79,7 +88,7 @@
           "title": "Graduação",
           "subContents": [
             {
-              "title": ["Faculdade Pitágoras", "Sistemas de Informação"],
+              "title": ["UFU", "Sistemas de Informação"],
               "texts": ["Em andamento"]
             }
           ]
