@@ -12,7 +12,7 @@
       },
       {
         "subTitle": "Back-end",
-        "text": "Node, Docker, Knex, Sequelize, Prisma, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Linux."
+        "text": "Node, Docker, Knex, Sequelize, Prisma, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Jest, Linux."
       },
       {
         "subTitle": "Soft Skills",
@@ -45,19 +45,26 @@
           "title": "Estúdio Flow",
           "subContents": [
             {
-              "title": ["Akmos", "Fitness App"],
+              "title": ["OpinaHub", "Sistema de avaliações e feedbacks"],
               "texts": [
-                "Desenvolvimento do back-end e uso de web sockets para criação de um chat;",
-                "Construção de várias interfaces e auxílio na integração do app mobile com a API."
+                "Desenvolvimento do backend com o ORM Prisma e o front-end em React;",
+                "Criação de testes unitários com Jest."
               ]
             },
             {
-              "title": ["Medfy", "Sistema de gerenciamento de hospital"],
+              "title": ["Medfy", "Sistema de filtros/pesquisa por médicos"],
               "texts": [
-                "Criação de filtros e sistema de pesquisa por médicos;",
+                "Criação do backend com o query builder knex (utilizando postgres como database);",
                 "Documentação de rotas da api no Swagger;",
-                "Utilização do multer juntamente ao servidor da AWS para upload de arquivos;",
-                "Desenvolvimento de vários recursos de front-end, como uma lista dinâmica e componente de Drag and drop."
+                "Utilização do multer juntamente ao S3 da AWS para upload de arquivos;",
+                "Desenvolvimento de recursos no front-end (feito em Next), lista dinâmica e componente de Drag and drop."
+              ]
+            },
+            {
+              "title": ["Akmos", "Fitness App"],
+              "texts": [
+                "Desenvolvimento do back-end com sequelize e uso de web sockets para criação de um chat;",
+                "Construção de interfaces com React Native e auxílio na integração com a API;"
               ]
             },
             {
@@ -65,7 +72,7 @@
               "texts": [
                 "Construção de gráficos com a biblioteca Apexcharts;",
                 "Auxílio na integração do front-end com a API;",
-                "Responsável pela responsividade do site."
+                "Responsável pela responsividade."
               ]
             }
           ]
@@ -75,7 +82,10 @@
           "subContents": [
             {
               "title": ["Pedi Aqui", "Sistema de Delivery"],
-              "texts": ["Desenvolvimento do back-end;"]
+              "texts": [
+                "Desenvolvimento do back-end com o ORM Prisma;",
+                "Documentação no Insomnia."
+              ]
             }
           ]
         }
@@ -90,23 +100,6 @@
             {
               "title": ["UFU", "Sistemas de Informação"],
               "texts": ["Em andamento"]
-            }
-          ]
-        },
-        {
-          "title": "Bootcamps",
-          "subContents": [
-            {
-              "title": ["Go stack", "Curso de React, React Native e Node"],
-              "texts": ["Por Diego Fernandes (Rocketseat)"]
-            },
-            {
-              "title": ["ADVANCED CSS AND SASS", "Web design"],
-              "texts": ["Por Jonas Schmedtmann (Udemy)"]
-            },
-            {
-              "title": ["The Complete SQL Bootcamp", "Bancos relacionais"],
-              "texts": ["Por Jose Porttila (Udemy)"]
             }
           ]
         }

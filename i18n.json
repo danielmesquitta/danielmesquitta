@@ -3,8 +3,6 @@
   "defaultLocale": "en",
   "pages": {
     "/": ["fullstack"],
-    "/fullstack": ["fullstack"],
-    "/backend": ["backend"],
-    "/frontend": ["frontend"]
+    "/fullstack": ["fullstack"]
   }
 }

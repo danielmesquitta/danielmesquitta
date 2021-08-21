@@ -132,7 +132,7 @@ const Resume: React.FC<Props> = ({ type = 'fullstack' }) => {
                             <span />
                             {t(`main.${id}.contents.${index}.title`)}
                           </h3>
-                          {generateArray(3).map(
+                          {generateArray(4).map(
                             (idx) =>
                               !t(
                                 `main.${id}.contents.${index}.subContents.${idx}.title.0`

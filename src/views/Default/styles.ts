@@ -232,13 +232,8 @@ export const Main = styled.section`
 
   > h3 {
     position: relative;
-    margin-top: 0px;
     font-weight: ${({ theme }) => theme.typography.weight.bold};
     text-transform: uppercase;
-
-    &:last-of-type {
-      margin-top: 30px;
-    }
 
     span {
       display: block;

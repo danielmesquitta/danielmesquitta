@@ -4,7 +4,7 @@
     "job": "Full-stack<0/>software developer"
   },
   "skills": {
-    "title": "Skills / Competences",
+    "title": "Skills",
     "contents": [
       {
         "subTitle": "Front-end",
@@ -12,7 +12,7 @@
       },
       {
         "subTitle": "Back-end",
-        "text": "Node, Knex, PostgreSQL, Redis, Docker, AWS, Sequelize, MongoDB, Nodemailer, Socket.io."
+        "text": "Node, Docker, Knex, Sequelize, Prisma, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Jest, Linux."
       },
       {
         "subTitle": "Soft Skills",
@@ -45,27 +45,46 @@
           "title": "Estúdio Flow",
           "subContents": [
             {
+              "title": ["OpinaHub", "Evaluations and feedback system"],
+              "texts": [
+                "Back-end development with Prisma ORM and front-end with React;",
+                "Unitary test creation with Jest."
+              ]
+            },
+            {
+              "title": ["Medfy", "System for searching and filtering doctors"],
+              "texts": [
+                "Back-end development with  the query builder knex (using postgres as database);",
+                "API Routes documentation with Swagger;",
+                "File upload with multer and S3 from AWS;",
+                "Front-end resources development (with Next), complex components creation, such as dynamic lists and drag and drops."
+              ]
+            },
+            {
               "title": ["Akmos", "Fitness App"],
               "texts": [
-                "Developed the back-end and used web sockets to create a chat;",
-                "Built multiple interfaces and helped integrate the mobile app with the api."
+                "Back-end development with sequelize and web sockets use to create a chat;",
+                "Built interfaces and helped integrate the mobile app with the api;"
               ]
             },
             {
-              "title": ["Medfy", "Hospital management system"],
-              "texts": [
-                "Created filter and search system to find doctors;",
-                "Used multer and AWS to upload files;",
-                "Documented all api routes in Swagger;",
-                "Developed multiple front-end features, such as a dynamic list and a drag and drop component."
-              ]
-            },
-            {
-              "title": ["ICTS", "Hiring risk analysis system"],
+              "title": ["ICTS", "Sistema de análise de risco de contratação"],
               "texts": [
                 "Built multiple charts using the Apexcharts library;",
                 "Helped integrating the front-end with the api;",
                 "Was responsible for the site responsiveness."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Freelancer",
+          "subContents": [
+            {
+              "title": ["Pedi Aqui", "Sistema de Delivery"],
+              "texts": [
+                "Back-end development with Prisma ORM;",
+                "Insomnia documentation."
               ]
             }
           ]
@@ -79,28 +98,8 @@
           "title": "Graduation",
           "subContents": [
             {
-              "title": ["Pitágoras College", "Information Systems Degree"],
+              "title": ["UFU", "Information Systems Degree"],
               "texts": ["In progress"]
-            }
-          ]
-        },
-        {
-          "title": "Bootcamps",
-          "subContents": [
-            {
-              "title": ["Go stack", "React, React Native & Node course"],
-              "texts": ["By Diego Fernandes (Rocketseat)"]
-            },
-            {
-              "title": ["ADVANCED CSS AND SASS", "Web design"],
-              "texts": ["By Jonas Schmedtmann (Udemy)"]
-            },
-            {
-              "title": [
-                "The Complete SQL Bootcamp",
-                "Relational databases course"
-              ],
-              "texts": ["By Jose Porttila (Udemy)"]
             }
           ]
         }
