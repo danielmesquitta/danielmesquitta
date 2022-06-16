@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Container = styled.h2`
-  margin-top: 50px;
+  margin-top: 35px;
   position: relative;
   color: ${({ theme }) => theme.colors.gray._200};
   font-size: ${({ theme }) => theme.typography.size.h2};

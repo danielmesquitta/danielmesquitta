@@ -12,10 +12,10 @@ const typography = {
   },
 
   size: {
-    h1: '32px',
-    h2: '24px',
-    p: '16px',
-    caption: '14px',
+    h1: '20px',
+    h2: '16px',
+    p: '13px',
+    caption: '12px',
   },
 };
 

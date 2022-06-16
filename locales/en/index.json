@@ -4,19 +4,19 @@
     "job": "Full-stack<0/>software developer"
   },
   "skills": {
-    "title": "Skills",
+    "title": "Habilidades",
     "contents": [
       {
         "subTitle": "Front-end",
-        "text": "JavaScript, TypeScript, React, React Native, Next, Redux, HTML, CSS, Sass, Styled Components."
+        "text": "JavaScript, TypeScript, React, React Native, Next, Redux, HTML, CSS, Sass, Styled Components, WordPress, Firebase."
       },
       {
         "subTitle": "Back-end",
-        "text": "Node, Docker, Knex, Sequelize, Prisma, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Jest, Linux."
+        "text": "Node, Express, Koa, Docker, Knex, Sequelize, Prisma, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Jest, Linux, Google Cloud, Strapi, Github Actions, Puppeteer."
       },
       {
         "subTitle": "Soft Skills",
-        "text": "Adaptability, Persistence."
+        "text": "Adaptability, Persistence, Time management."
       }
     ]
   },
@@ -34,57 +34,70 @@
     ]
   },
   "about": {
-    "title": "Prepared for an endless learning journey, passionate about technology, programming and especially, evolution and daily growth.",
+    "title": "Prepared for an endless learning journey, passionate about technology, programming and especially, evolution and daily growth. Use the QR Code to know more about me",
     "alt": "Website QR Code"
   },
   "main": [
     {
-      "title": "Work experience",
+      "title": "Work Experience",
       "contents": [
         {
-          "title": "Estúdio Flow",
+          "title": "Company Estúdio Flow:",
           "subContents": [
             {
-              "title": ["OpinaHub", "Evaluations and feedback system"],
+              "title": [
+                "PrimeAgro",
+                "Management system and report generation for agronomists"
+              ],
               "texts": [
-                "Back-end development with Prisma ORM and front-end with React;",
-                "Unitary test creation with Jest."
+                "Participations: Database modeling; API development; Seed creation; Documentation; Unitary tests; Automatically generating reports in excel; Heat map integrated with Google maps; Creating charts.",
+                "Learnings: Improvement in Relational Database knowledge; Google Cloud."
               ]
             },
             {
-              "title": ["Medfy", "System for searching and filtering doctors"],
+              "title": [
+                "Medfy",
+                "UMC Hospital Doctors and Clinics Management System"
+              ],
               "texts": [
-                "Back-end development with  the query builder knex (using postgres as database);",
-                "API Routes documentation with Swagger;",
-                "File upload with multer and S3 from AWS;",
-                "Front-end resources development (with Next), complex components creation, such as dynamic lists and drag and drops."
+                "Participations: Database modeling; API creation; Containerization with Docker; Documentation; Uploading files and sending emails with AWS; Frontend development (Tables, dynamic lists, drag-and-drop, etc.); Export data to excel.",
+                "Learnings: Next; Docker and its ecosystem; AWS Console."
               ]
             },
             {
-              "title": ["Akmos", "Fitness App"],
+              "title": ["Acelera Prime", "Distance learning platform"],
               "texts": [
-                "Back-end development with sequelize and web sockets use to create a chat;",
-                "Built interfaces and helped integrate the mobile app with the api;"
+                "Participations: Building API and Admin dashboard with Strapi; Documentation; API certificate generation with Puppeteer.",
+                "Learnings: Web scraping with Puppeteer; CMS Strapi."
               ]
             },
             {
-              "title": ["ICTS", "Sistema de análise de risco de contratação"],
+              "title": ["OpinaHub", "Ratings and feedback system"],
               "texts": [
-                "Built multiple charts using the Apexcharts library;",
-                "Helped integrating the front-end with the api;",
-                "Was responsible for the site responsiveness."
+                "Participations: Database modeling; API creation; Frontend development; Animations with Framer Motion; Unitary tests; Deploy in Brazil Cloud.",
+                "Learnings: Scripts to be inserted into third-party websites; Animations with Framer motion and CSS."
+              ]
+            },
+            {
+              "title": [
+                "Cooperari",
+                "Platform to search for candidates by its soft skills"
+              ],
+              "texts": [
+                "Participations: API development; Integration with Drive to generate reports; Algorithm to match candidates and companies; Automated deployment with Github Actions.",
+                "Learnings: CI/CD; Drive integration."
               ]
             }
           ]
         },
         {
-          "title": "Freelancer",
+          "title": "Freelancer:",
           "subContents": [
             {
-              "title": ["Pedi Aqui", "Sistema de Delivery"],
+              "title": ["Pedi Aqui", "Delivery System"],
               "texts": [
-                "Back-end development with Prisma ORM;",
-                "Insomnia documentation."
+                "Participations: Database modeling; API development; Connection with web sockets; Deploy in heroku; Integration with mobile APP notifications.",
+                "Learnings: Web sockets; Time management."
               ]
             }
           ]

@@ -8,15 +8,15 @@
     "contents": [
       {
         "subTitle": "Front-end",
-        "text": "JavaScript, TypeScript, React, React Native, Next, Redux, HTML, CSS, Sass, Styled Components."
+        "text": "JavaScript, TypeScript, React, React Native, Next, Redux, HTML, CSS, Sass, Styled Components, WordPress, Firebase."
       },
       {
         "subTitle": "Back-end",
-        "text": "Node, Docker, Knex, Sequelize, Prisma, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Jest, Linux."
+        "text": "Node, Express, Koa, Docker, Knex, Sequelize, Prisma, PostgreSQL, MongoDB, Redis, Nodemailer, AWS, Socket.io, Jest, Linux, Google Cloud, Strapi, Github Actions, Puppeteer."
       },
       {
         "subTitle": "Soft Skills",
-        "text": "Adaptabilidade, Persistência."
+        "text": "Adaptabilidade, Persistência, Gestão de tempo."
       }
     ]
   },
@@ -34,7 +34,7 @@
     ]
   },
   "about": {
-    "title": "Desenvolvedor full-stack preparado pra uma jornada de aprendizado incessante. Apaixonado por tecnologia, programação e crescimento diário.",
+    "title": "Preparado pra uma jornada de aprendizado incessante. Apaixonado por tecnologia, programação e crescimento diário. Escaneie o QR Code para saber mais sobre mim",
     "alt": "Website QR Code"
   },
   "main": [
@@ -42,49 +42,62 @@
       "title": "Experiência",
       "contents": [
         {
-          "title": "Estúdio Flow",
+          "title": "Empresa Estúdio Flow:",
           "subContents": [
+            {
+              "title": [
+                "PrimeAgro",
+                "Sistema de gestão, geração de laudos e relatórios para engenheiros agrônomos"
+              ],
+              "texts": [
+                "Participações: Modelagem do banco de dados; Desenvolvimento de API; Criação de seeds; Documentação; Testes unitários; Geração de laudos no excel; Mapa de calor integrado com Google maps; Criação de gráficos; etc.",
+                "Aprendizados: Aperfeiçoamento em habilidades sobre Bancos Relacionais; Google Cloud."
+              ]
+            },
+            {
+              "title": [
+                "Medfy",
+                "Sistema de gestão de médicos e clínicas do hospital UMC"
+              ],
+              "texts": [
+                "Participações: Modelagem do banco de dados; Criação de API; Conteinerização com Docker; Documentação; Upload de arquivos e envio de e-mails com AWS; Desenvolvimento frontend (Tabelas, listas dinâmicas, drag-and-drop, etc.); Exportação de dados por excel.",
+                "Aprendizados: Next; Docker e seu ecossistema; Console da AWS."
+              ]
+            },
+            {
+              "title": ["Acelera Prime", "Plataforma EAD"],
+              "texts": [
+                "Participações: Construção de API e dashboard do Admin com Strapi; Documentação; Geração de certificados pela API com Puppeteer.",
+                "Aprendizados: Web scraping com Puppeteer; CMS Strapi."
+              ]
+            },
             {
               "title": ["OpinaHub", "Sistema de avaliações e feedbacks"],
               "texts": [
-                "Desenvolvimento do backend com o ORM Prisma e o front-end em React;",
-                "Criação de testes unitários com Jest."
+                "Participações: Modelagem do banco de dados; Criação da API; Desenvolvimento do frontend; Animações com Framer Motion; Testes unitários; Deploy no Brasil Cloud.",
+                "Aprendizados: Scripts para serem inseridos em sites de terceiros; Animações com Framer motion e CSS."
               ]
             },
             {
-              "title": ["Medfy", "Sistema de filtros/pesquisa por médicos"],
+              "title": [
+                "Cooperari",
+                "Plataforma de busca de candidatos por soft skills"
+              ],
               "texts": [
-                "Criação do backend com o query builder knex (utilizando postgres como database);",
-                "Documentação de rotas da api no Swagger;",
-                "Utilização do multer juntamente ao S3 da AWS para upload de arquivos;",
-                "Desenvolvimento de recursos no front-end (feito em Next), lista dinâmica e componente de Drag and drop."
-              ]
-            },
-            {
-              "title": ["Akmos", "Fitness App"],
-              "texts": [
-                "Desenvolvimento do back-end com sequelize e uso de web sockets para criação de um chat;",
-                "Construção de interfaces com React Native e auxílio na integração com a API;"
-              ]
-            },
-            {
-              "title": ["ICTS", "Sistema de análise de risco de contratação"],
-              "texts": [
-                "Construção de gráficos com a biblioteca Apexcharts;",
-                "Auxílio na integração do front-end com a API;",
-                "Responsável pela responsividade."
+                "Participações: Desenvolvimento da API; Integração com Drive para gerar relatórios; Algoritmo de match; Deploy automatizado com Github Actions.",
+                "Aprendizados: CI/CD; Integração com Drive."
               ]
             }
           ]
         },
         {
-          "title": "Freelancer",
+          "title": "Freelancer:",
           "subContents": [
             {
               "title": ["Pedi Aqui", "Sistema de Delivery"],
               "texts": [
-                "Desenvolvimento do back-end com o ORM Prisma;",
-                "Documentação no Insomnia."
+                "Participações: Modelagem do banco de dados; Desenvolvimento da API; Conexão com web sockets; Deploy no heroku; Integração com notificações do APP mobile.",
+                "Aprendizados: Utilização de web sockets; Gestão de tempo."
               ]
             }
           ]

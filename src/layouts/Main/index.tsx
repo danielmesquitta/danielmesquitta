@@ -47,7 +47,7 @@ const Main: React.FC = () => {
                     <>
                       <SubTitle id={subTitleId} titleId={titleId} />
 
-                      {generateArray(4).map((contentId) => {
+                      {generateArray(5).map((contentId) => {
                         const contentTReference = generateContentTReference(
                           titleId,
                           subTitleId,

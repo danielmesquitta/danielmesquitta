@@ -31,7 +31,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body, input, textarea, button, a, a:visited, h1, h2, h3, h4, h5, h6, p {
-    font-size: 16px;
+    font-size: ${({ theme }) => theme.typography.size.p};
     font-family: ${({ theme }) => theme.typography.family};
     font-weight: ${({ theme }) => theme.typography.weight.regular};
     color: ${({ theme }) => theme.colors.gray._400};
