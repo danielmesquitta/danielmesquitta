@@ -1,6 +1,6 @@
 # 👋 Hello World!
 
-I'm a Full Stack Developer from Brazil who overcame challenges from a disadvantaged background to pursue my passion for technology. I taught myself front-end development in high school and landed my first job while still in school. I earned a scholarship to attend college, becoming a full-stack developer, now with 3+ years of experience in Node.js, React.js and React Native.
+I'm a Developer from Brazil who overcame challenges from a disadvantaged background to pursue my passion for technology. I taught myself front-end development in high school and landed my first job while still in school. I earned a scholarship to attend college, becoming a full-stack developer, now with 3+ years of experience in Node.js, React.js and React Native.
 
 👨‍💻 Currently, I am using my skills to develop innovative solutions and bring ideas to life at [Flow Lab](https://www.instagram.com/flowlabdigital).
 
