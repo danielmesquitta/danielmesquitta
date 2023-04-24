@@ -1,5 +1,5 @@
 # 👋 Hello World!
-💼 I’m currently working using React, React Native, and Node.js.<br><br>🤝 I’m always looking for new challenges, exciting projects that push my skills to the limit and allow me to learn.<br><br>🌱 I’m currently focused on improving my Spanish, GraphQL skills and serverless architectures knowledge.<br><br>⚡ Fun fact: I'm passionate about weightlifting and bodybuilding, which helps me stay healthy and maintain focus in both my personal and professional life.
+👨‍💻 I’m working using React, React Native, and Node.js.<br><br>🤝 I’m always looking for new challenges, exciting projects that push my skills to the limit and allow me to learn.<br><br>🌱 I’m focused on improving my Spanish, GraphQL skills and serverless architectures knowledge.<br><br>⚡ Fun fact: I'm passionate about weightlifting and bodybuilding, which helps me stay healthy and maintain focus in both my personal and professional life.
 
 
 ## 🌐 Socials:
