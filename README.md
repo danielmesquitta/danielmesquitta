@@ -1,5 +1,8 @@
 # 👋 Hello World!
-👨‍💻 Currently, I am using my skills in React, React Native, and Node.js to develop innovative solutions and bring ideas to life at [Flow lab](https://www.instagram.com/flowlabdigital).
+
+I'm a Full Stack Developer from Brazil who overcame challenges from a disadvantaged background to pursue my passion for technology. I taught myself front-end development in high school and landed my first job while still in school. I earned a scholarship to attend college, becoming a full-stack developer now, with 3+ years of experience in Node.js and React.js.
+
+👨‍💻 Currently, I am using my skills to develop innovative solutions and bring ideas to life at [Flow Lab](https://www.instagram.com/flowlabdigital).
 
 🤝 I thrive on challenges and seek out exciting projects that push my skills to the limit. Every project is an opportunity for me to learn and grow as a developer.
 
