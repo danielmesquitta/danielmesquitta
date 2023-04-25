@@ -6,7 +6,7 @@ As a Brazilian developer, I am proud to have taught myself front-end development
 
 🤝 I thrive on challenges and seek out exciting projects that push my skills to the limit. Every project is an opportunity for me to learn and grow as a developer.
 
-🌱 I am continuously striving to improve my skills and knowledge base. At the moment, I am focused on enhancing my Spanish, honing my GraphQL expertise, and expanding my understanding of serverless architectures.
+🌱 I am continuously improving my skills and knowledge base. At the moment, I am focused on honing my GraphQL expertise, and expanding my understanding of serverless architectures.
 
 ⚡ In my free time, I am an avid weightlifter. This passion for fitness helps me maintain focus and balance in both my personal and professional life.
 
