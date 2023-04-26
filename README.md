@@ -1,4 +1,4 @@
-# 👋 Hello World!
+# 👋 Hello!
 
 As a Brazilian developer, I am proud to have taught myself front-end development in high school and secured my first job while still studying. I earned a scholarship to attend college, where I honed my skills and became a proficient full-stack developer. With 3+ years of experience in Node.js, React.js, and React Native, I continue to explore my passion for technology and strive for excellence in every project.
 
