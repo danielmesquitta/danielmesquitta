@@ -1,6 +1,5 @@
 # 👋 Hello!
 
-**[🇺🇸 en-us]**<br/>
 As a Brazilian developer, I am proud to have taught myself front-end development during high school and secured my first job while still studying. I earned a scholarship to attend college, where I honed my skills and became a proficient full-stack developer. With 3+ years of experience in Node.js, React.js, and React Native, I continue to explore my passion for technology and strive for excellence in every project.
 
 👨‍💻 Currently, I am using my skills to develop innovative solutions and bring ideas to life at [Flow Lab](https://www.instagram.com/flowlabdigital).
@@ -10,17 +9,6 @@ As a Brazilian developer, I am proud to have taught myself front-end development
 🌱 I am continuously improving my skills and knowledge base. At the moment, I am focused on honing my GraphQL expertise, and expanding my understanding of serverless architectures.
 
 💪 In my free time, I am an avid weightlifter. This passion for fitness helps me maintain focus and balance in both my personal and professional life.
-
-**[🇧🇷 pt-br]**<br/>
-Como um programador brasileiro, tenho orgulho de ter aprendido desenvolvimento front-end durante o ensino médio e garantido meu primeiro emprego enquanto ainda estudava. Consegui uma bolsa de estudos para frequentar a faculdade, onde aprimorei minhas habilidades e me tornei um desenvolvedor full-stack proficiente. Com mais de 3 anos de experiência em Node.js, React.js e React Native, continuo explorando minha paixão pela tecnologia e buscando a excelência em cada projeto.
-
-👨‍💻 Atualmente, estou usando minhas habilidades para desenvolver soluções inovadoras e dar vida a ideias na [Flow Lab](https://www.instagram.com/flowlabdigital).
-
-🤝 Gosto de desafios e procuro projetos empolgantes que testem minhas habilidades ao limite. Cada projeto é uma oportunidade para mim aprender e crescer como desenvolvedor.
-
-🌱 Estou continuamente aprimorando minhas habilidades e base de conhecimento. No momento, estou focado em aprimorar minha experiência em GraphQL e expandir minha compreensão de arquiteturas sem servidor.
-
-💪 No meu tempo livre, pratico musculação. Essa paixão pelo fitness me ajuda a manter o foco e o equilíbrio tanto na minha vida pessoal quanto profissional.
 
 ### 📬 Contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmesquitta/)](https://www.linkedin.com/in/danielmesquitta/)
