@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I am a Full Stack Developer with 4 years of work experience dedicated to helping companies build high-quality, user-friendly web and mobile applications that exceed their business objectives. I focus on delivering exceptional results and have a proven track record of success.
+I am a full-stack developer with 4 years of work experience dedicated to helping companies build high-quality, user-friendly web and mobile applications that exceed their business objectives. I focus on delivering exceptional results and have a proven track record of success.
 
 👨‍💻 Currently, I am using my skills to develop innovative solutions and bring ideas to life at [Moss](https://www.moss.earth).
 
