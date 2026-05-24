@@ -1,8 +1,8 @@
 # 👋 Hello!
 
-I am a Software Developer with over 4 years of work experience building high-quality, efficient, and user-friendly programs that exceed expectations. I focus on delivering exceptional results and have a proven track record of success.
+I am a Software Developer with 6 years of work experience building high-quality, efficient, and user-friendly programs that exceed expectations. I focus on delivering exceptional results and have a proven track record of success.
 
-👨‍💻 Currently, I work at [Sword Health](https://swordhealth.com/) through outsourcing by [Bee Engineering](https://www.bee-eng.pt/en), where I contribute to developing innovative digital health solutions. I've been building and maintaining APIs and microservices to support our mobile app for patients (available on [Android](https://play.google.com/store/apps/details?id=com.swordhealth.guarda) and [iOS](https://apps.apple.com/us/app/sword-health/id1468523447)) and our web platform for doctors.
+👨‍💻 Currently, I work at [Reddit](https://www.reddit.com) through outsourcing by [Turing](https://www.turing.com), where I contribute to cutting costs (with an impact already over millions of dollars annually) by increasing server efficiency. I’ve been migrating hot paths from Python to Go, halving latency and boosting efficiency for features used by 100M+ daily users. I ship safely with Tap Compare, shadow traffic, and rolling releases monitored in Grafana, and I write docs to share the how/why.
 
 🤝 I thrive on challenges and seek out exciting projects that push my skills to the limit. Every project allows me to learn and grow as a developer.
 
