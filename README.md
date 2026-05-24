@@ -2,7 +2,7 @@
 
 I am a Software Developer with 6 years of work experience building high-quality, efficient, and user-friendly programs that exceed expectations. I focus on delivering exceptional results and have a proven track record of success.
 
-👨‍💻 Currently, I work at [Reddit](https://www.reddit.com) through outsourcing by [Turing](https://www.turing.com), where I contribute to cutting costs (with an impact already over millions of dollars annually) by increasing server efficiency. I’ve been migrating hot paths from Python to Go, halving latency and boosting efficiency for features used by 100M+ daily users. I ship safely with Tap Compare, shadow traffic, and rolling releases monitored in Grafana, and I write docs to share the how/why.
+👨‍💻 Currently, I work at [Reddit](https://www.reddit.com) through outsourcing by [Turing](https://www.turing.com), where I contribute to reducing infrastructure costs, with an annual impact already in the millions of dollars. I’ve been migrating hot paths from Python to Go, halving latency and improving efficiency for features used by 100M+ daily users. I ship safely with tap compare, shadow traffic, and rolling releases monitored in Grafana, and I write docs to share the how/why.
 
 🤝 I thrive on challenges and seek out exciting projects that push my skills to the limit. Every project allows me to learn and grow as a developer.
 
